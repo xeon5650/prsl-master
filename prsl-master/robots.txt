@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Host: http://total-security24.ru
+Sitemap: http://total-security24.ru/sitemap.xml
